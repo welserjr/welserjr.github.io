@@ -711,7 +711,7 @@ h3 > .fa {
 }
 
 #status, .status-mes {
-    background-image: url(https://loading.io/assets/img/hourglass.svg);
+    background-image: url(http://loading.io/assets/img/hourglass.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 200px;
